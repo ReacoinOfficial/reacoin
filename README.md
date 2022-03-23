@@ -26,13 +26,13 @@ https://reacoin.io
 
 • Block Time:       30 seconds
 
-• Block Reward:     25 REA
+• Block Reward:     25 REAN
 
 • Difficulty:       Each block
 
 • Halving:          1,000,000 bocks (347 days)
 
-• Ticker:           REA
+• Ticker:           REAN
 
 • P2P Port:         7997
 

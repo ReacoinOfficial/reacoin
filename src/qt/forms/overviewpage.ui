@@ -146,7 +146,7 @@
                <string notr="true">color: rgb(100, 100, 100);</string>
               </property>
               <property name="text">
-               <string notr="true">0.000 000 00 REA</string>
+               <string notr="true">0.000 000 00 REAN</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -241,7 +241,7 @@
                <string notr="true">color: rgb(100, 100, 100);</string>
               </property>
               <property name="text">
-               <string notr="true">0.000 000 00 REA</string>
+               <string notr="true">0.000 000 00 REAN</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -271,7 +271,7 @@
                <string notr="true">color: rgb(100, 100, 100);</string>
               </property>
               <property name="text">
-               <string notr="true">0.000 000 00 REA</string>
+               <string notr="true">0.000 000 00 REAN</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -340,7 +340,7 @@
                <string notr="true">color: rgb(100, 100, 100);</string>
               </property>
               <property name="text">
-               <string notr="true">0.000 000 00 REA</string>
+               <string notr="true">0.000 000 00 REAN</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -370,7 +370,7 @@
                <string notr="true">color: rgb(100, 100, 100);</string>
               </property>
               <property name="text">
-               <string notr="true">0.000 000 00 REA</string>
+               <string notr="true">0.000 000 00 REAN</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -416,7 +416,7 @@
                <string notr="true">color: rgb(66, 66, 78);</string>
               </property>
               <property name="text">
-               <string notr="true">0.000 000 00 REA</string>
+               <string notr="true">0.000 000 00 REAN</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -446,7 +446,7 @@
                <string notr="true">color: rgb(100, 100, 100);</string>
               </property>
               <property name="text">
-               <string notr="true">0.000 000 00 REA</string>
+               <string notr="true">0.000 000 00 REAN</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -476,7 +476,7 @@
                <string notr="true">color: rgb(66, 66, 78);</string>
               </property>
               <property name="text">
-               <string notr="true">0.000 000 00 REA</string>
+               <string notr="true">0.000 000 00 REAN</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
